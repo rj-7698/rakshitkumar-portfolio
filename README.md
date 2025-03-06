@@ -61,13 +61,13 @@
 
 ## 🏆 Certifications
 
-- ✅ AWS Certified Solutions Architect - Associate
-- 📌 Career Essentials in Project Management (Microsoft & LinkedIn)
-- 🚀 Automating Kubernetes with GitOps (LinkedIn & Pearson)
-- 🌐 Google Cloud Professional Cloud Architect Prep (LinkedIn)
-- 🔌 Network Automation Professional Certificate (Arista Networks)
-- 📈 Agile Project Management Professional Certificate (Atlassian)
-- 🔥 Career Essentials in GitHub Professional Certificate (GitHub & LinkedIn)
+- AWS Certified Solutions Architect - Associate
+- Career Essentials in Project Management (Microsoft & LinkedIn)
+- Automating Kubernetes with GitOps (LinkedIn & Pearson)
+- Google Cloud Professional Cloud Architect Prep (LinkedIn)
+- Network Automation Professional Certificate (Arista Networks)
+- Agile Project Management Professional Certificate (Atlassian)
+- Career Essentials in GitHub Professional Certificate (GitHub & LinkedIn)
 
 ## 📂 Featured Projects
 
